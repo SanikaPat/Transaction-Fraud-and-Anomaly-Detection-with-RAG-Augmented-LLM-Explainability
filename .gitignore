@@ -15,7 +15,6 @@ processed/
 outputs/
 results/
 
-models/
 trained_models/
 *.pkl
 *.joblib
