@@ -46,7 +46,7 @@ def retrieve_rules(query_text, embed_model, rule_embs, rules_df, k=3):
 def call_llm(prompt):
 
     client = OpenAI(
-        api_key="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",
+        api_key="api_key_goes_here",
         base_url="https://openrouter.ai/api/v1"
     )
 
