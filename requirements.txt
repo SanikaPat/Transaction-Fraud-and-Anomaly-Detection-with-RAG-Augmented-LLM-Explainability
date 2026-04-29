@@ -1,0 +1,15 @@
+numpy
+pandas
+scikit-learn
+xgboost
+matplotlib
+seaborn
+joblib
+# Optional but useful for large datasets
+pyarrow
+
+# For progress tracking
+tqdm
+
+tensorflow-macos
+tensorflow-metal
